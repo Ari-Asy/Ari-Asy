@@ -5,7 +5,7 @@ Currently a Computer Engineering student at the Faculty of Engineering, Srinakha
 
 ### Contact
 
-<a><img src="https://png.pngtree.com/png-clipart/20200721/original/pngtree-gmail-logo-png-png-image_4839469.jpg" alt="Gmail" title="Gmail" width="20" height="20" /></a> Gmail : ksroooppp1223@gmail.com <br>
+<a><img src="https://png.pngtree.com/png-clipart/20200721/original/pngtree-gmail-logo-png-png-image_4839469.jpg" alt="Gmail" title="Gmail" width="20" height="20" /></a> Gmail : phongsakornbuaiam@gmail.com <br>
 <a href="https://www.facebook.com/phongsakon.buaiam.7"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="Facebook" title="Facebook" width="20" height="20" /></a> Facebook : Phongsakorn Buaiam <br>
 <a href="https://www.instagram.com/phongsakorn_sky/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="IG" title="IG" width="20" height="20" /></a> Instagram : phongsakorn_sky <br>
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/LINE_logo.svg/2048px-LINE_logo.svg.png" alt="Line" title="Line" width="20" height="20" /></a> Line ID : sky-68
